@@ -79,3 +79,13 @@ function checkPalindrome(str){
 }
 
 checkPalindrome(phraseToCheck);
+
+
+// function isNameOddEven(str){
+//     if(str.length % 2) return(`${str} is odd`);
+//     return(`${str} is even`);
+// }
+// console.log(isNameOddEven('hehe'))
+// // OR
+// const list = [1, 2, 3, 4, 5];
+// console.log(list.reduce((total, item) => total + item,0 )); // 15
